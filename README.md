@@ -1,1 +1,1 @@
-"# Reposit¢rio para estudo sobre mensagerias e microsserviáos" 
+"# Reposit√≥rio para estudo sobre mensagerias e microsservi√ßos" 
